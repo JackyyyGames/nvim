@@ -2,9 +2,6 @@
 
 This repository contains my personal Neovim configuration.
 
-At the moment, this setup is still based on the default LazyVim starter configuration.  
-It is mainly used as a clean starting point for building a customized Neovim environment.
-
 ## Current Status
 
 The configuration is currently close to the standard LazyVim setup.
